@@ -141,9 +141,15 @@ d.android.com
 #### Jetpack libraries
 https://developer.android.com/jetpack/androidx/explorer 
 #### Retrofit
+https://square.github.io/retrofit/
 
 #### ImageLoading Libraries
 Picasso
-Glide
+Glide - https://bumptech.github.io/glide/ | https://github.com/bumptech/glide
 Fresco
+
+#### Dog Ceo 
+https://dog.ceo/dog-api/ <- base url for the dog ceo api
+https://dog.ceo/dog-api/breeds-list <- List of all breeds 
+https://dog.ceo/api/breed/husky/images/random/25 <- api call for a list of 25 huskies
 
