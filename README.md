@@ -131,17 +131,19 @@ What is a SharedFlow?
 ## Module 5 
 ### Create an App using the DogApi.
 1. Create a Screen what has a list of images. (Single List or Grid)
-  a. Use a networking library to call the 
+  a. Use a networking library to make a call to the dog ceo api to get a list of dogs.
+  b. Take that list of dogs and present them on the screen.
+  c. When a user clicks on an image open that image to its on screen.
 
 
 
 Helpful links.
-d.android.com
+- d.android.com
 
 #### Jetpack libraries
-https://developer.android.com/jetpack/androidx/explorer 
+- https://developer.android.com/jetpack/androidx/explorer 
 #### Retrofit
-https://square.github.io/retrofit/
+- https://square.github.io/retrofit/
 
 #### ImageLoading Libraries
 - Picasso
@@ -149,7 +151,7 @@ https://square.github.io/retrofit/
 - Fresco
 
 #### Dog Ceo 
-https://dog.ceo/dog-api/ <- base url for the dog ceo api
-https://dog.ceo/dog-api/breeds-list <- List of all breeds 
-https://dog.ceo/api/breed/husky/images/random/25 <- api call for a list of 25 huskies
+- https://dog.ceo/dog-api/ <- base url for the dog ceo api
+- https://dog.ceo/dog-api/breeds-list <- List of all breeds 
+- https://dog.ceo/api/breed/husky/images/random/25 <- api call for a list of 25 huskies
 
