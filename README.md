@@ -144,9 +144,9 @@ https://developer.android.com/jetpack/androidx/explorer
 https://square.github.io/retrofit/
 
 #### ImageLoading Libraries
-Picasso
-Glide - https://bumptech.github.io/glide/ | https://github.com/bumptech/glide
-Fresco
+- Picasso
+- Glide - https://bumptech.github.io/glide/ | https://github.com/bumptech/glide
+- Fresco
 
 #### Dog Ceo 
 https://dog.ceo/dog-api/ <- base url for the dog ceo api
